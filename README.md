@@ -1,6 +1,4 @@
 # TikTok Downloader GUI
-
-![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A modern and easy-to-use graphical interface for downloading TikTok videos without watermarks. Built with Python, CustomTkinter, and the powerful `yt-dlp` library.
