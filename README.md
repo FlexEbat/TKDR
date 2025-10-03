@@ -33,7 +33,6 @@ Follow these instructions to get the application running on your local machine.
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/FlexEbat/TKDR
-    cd TKDR
     ```
 
 2.  **Create and activate a virtual environment (highly recommended):**
