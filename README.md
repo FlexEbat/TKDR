@@ -8,7 +8,7 @@ A modern, beautiful, and cross-platform desktop application for downloading vide
 ## Preview
 
 ![App Screenshot](screenshot.png)
-
+1
 ## ✨ Key Features
 
 -   **Stunning Modern UI**: A fluid and stylish interface powered by Google's Flutter engine, thanks to Flet.
