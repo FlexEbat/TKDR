@@ -5,7 +5,6 @@ A modern and easy-to-use graphical interface for downloading TikTok videos witho
 *(A screenshot of the application in action)*
 
 ![App Screenshot](screenshot.png) 
-*(Note: You should replace `screenshot.png` with the actual path to your screenshot file.)*
 
 ## ✨ Features
 
@@ -64,4 +63,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 Once the installation is complete, you can run the application with a single command:
 
 ```sh
-python tiktok_downloader.py
+python TKDR.py
